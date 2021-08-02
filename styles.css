@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/fondoblanco.png);
+}
+header{
+    background-color: rgba(108, 231, 190, 0.685);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h1{
+    margin-left: 30px;
+    display: inline;
+    font-size: 40px;
+}
+ul{
+    list-style: none;
+    margin-left: 40%;
+    padding-bottom: 50px;
+    display: inline;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+    font-size: 20px;
+}
+li a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+li a:hover{
+    color: rgb(97, 97, 97);
+}
+.inicio{
+    bottom: 120px;
+    right: 50px;
+    display: inline-block;
+    position: relative;
+}
+.inicio h2{
+    margin-top: 100px;
+    margin-left: 250px;
+    font-size: 30px;
+    display: inline;
+    background-color: bisque;
+}
+.inicio p{
+    margin-top: 10px;
+    margin-left: 250px;
+    background-color: bisque;
+    font-size: 20px;
+}
+#imagen1{
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+#menu h3{
+    position: relative;
+    top: 30px;
+    left: 45%;
+    font-size: 50px;
+    color: rgb(40, 135, 243);
+    margin-bottom: 90px;
+}
+#ul{
+    margin-left: 300px;
+    display: block;
+}
+#li{
+    margin-right: 70px;
+    display: block;
+}
+#ul2{
+    position: relative;
+    bottom: 140px;
+    left: 200px;
+    margin-left: 600px;
+    display: block;
+}
+#li2{
+    margin-right: 70px;
+    display: block;
+}
+#ubicacion h3{
+    position: relative;
+    bottom: 50px;
+    left: 43%;
+    font-size: 50px;
+    color: rgb(40, 135, 243);
+    margin-bottom: 30px;
+}
+#ubicacion img{
+    margin-left: 30%;
+}
